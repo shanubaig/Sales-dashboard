@@ -13,4 +13,4 @@ I really enjoyed working on this project as it strengthened my skills in:
 ✅ Power BI (Data Modeling, DAX, Visualizations)
 ✅ SQL (Data Preparation & Querying)
 ✅ Excel (Data Cleaning.
-https://github.com/shanubaig/Sales-dashboard/blob/main/Sales%20Dashboard.png
+Example:  [Dashboard preview].(https://github.com/shanubaig/Sales-dashboard/blob/main/Sales%20Dashboard.png)
